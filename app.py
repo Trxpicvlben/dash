@@ -1,4 +1,4 @@
-﻿import io
+import io
 from pathlib import Path
 import re
 import unicodedata
